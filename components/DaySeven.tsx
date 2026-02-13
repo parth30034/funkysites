@@ -18,7 +18,7 @@ const DaySeven: React.FC = () => {
     // Starting with a cute cat with a flower in hand as requested
     const images = [
         "https://media1.tenor.com/m/63qEOw-UQb8AAAAC/valentine%27s-day-valentines.gif", // Valentine's Day Gift
-        "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN3am90Y2N0M2ZqOHByNThoM3ZqOHByNThoM3ZqOHByNThoM3ZqOHByJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/YRtLgsajXrz1FNJ6oy/giphy.gif", // Sad cat
+        "https://media1.tenor.com/m/m3A4-216JFAAAAAC/bard1a-sad-cat.gif", // Sad cat
         "https://media1.tenor.com/m/ikTQ-pi_GyMAAAAC/cat-cry-kitten-cry.gif", // Crying cat
         "https://media1.tenor.com/m/bdpAKWSRdAYAAAAC/gato-wishes-cat.gif", // Pleading cat
         "https://media1.tenor.com/m/n42Zg6mQREoAAAAC/cat-kiss.gif", // Heartbroken cat
